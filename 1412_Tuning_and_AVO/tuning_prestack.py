@@ -22,9 +22,9 @@ import math
 
 
 #   3-Layer Model Parameters [Layer1, Layer2, Layer 3]
-vp_mod = [2500.0, 2600.0, 2550.0]  # P-wave velocity (m/s)
-vs_mod = [1200.0, 1300.0, 1200.0]  # S-wave velocity (m/s)
-rho_mod= [1.95, 2.0, 1.98]         # Density (g/cc)
+vp_mod = [3400.0, 3060.0, 3450]  # P-wave velocity (m/s)
+vs_mod = [1707.0, 1875.0, 1700.0]  # S-wave velocity (m/s)
+rho_mod= [2.47, 2.3, 2.47]         # Density (g/cc)
 
 thickness = 17.0  # vertical thickness of layer 2 in metres
 
